@@ -134,6 +134,7 @@ error=code d'erreur
 Affiche une page d'erreur avec une description
 
 # Frameworks
-Bootstrap  
-JQuery  
-FontAwesome 5
+- Bootstrap  
+- JQuery  
+- FontAwesome 5
+- FPDF
